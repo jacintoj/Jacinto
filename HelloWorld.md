@@ -1,2 +1,2 @@
 # Hello World
-## Este fichero es un "Hola Mundo" al Curso JS para Desarroladores Web de @Fictizia 
+## Este fichero es un "Hola Mundo" al Curso JS para Desarrolladores Web 9ªEd. de @Fictizia 
